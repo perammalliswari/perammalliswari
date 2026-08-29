@@ -35,13 +35,28 @@ I'm a **Data Analyst** who loves turning raw numbers into clear, actionable stor
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
 </p>
 
-**Programming**
+**Programming & Data Science**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Analysis & Concepts**
+
+<p>
+  <img src="https://img.shields.io/badge/Business_Analysis-2E9EF7?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-00A388?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Transformation-6E4AFF?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-EE4C2C?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning_Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 **Tools**
@@ -85,11 +100,4 @@ I'm a **Data Analyst** who loves turning raw numbers into clear, actionable stor
 
 <h3 align="center">📈 Data speaks. I help it tell a better story.</h3>
 
-<p align="center"><i>Thanks for stopping by — let's connect and talk data!</i></p>## Hi there 👋
-
-<!--
-**perammalliswari/perammalliswari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- ⚡ Fun fact: ...
--->
+<p align="center"><i>Thanks for stopping by — let's connect and talk data!</i></p>
