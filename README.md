@@ -17,10 +17,10 @@
 
 I'm a **Data Analyst** who loves turning raw numbers into clear, actionable stories. 📊
 
-- 🔍 Currently building experience through hands-on data analytics internships
+- 🔍 Currently building experience through hands-on data analytics internships and transform my career into data analyst , powerbi devloper,sql devloper...
 - 🏢 Interned at **Evoastra** (Mar 2026 – Jun 2026) as a Data Analyst
 - 🏆 Interned at **Unstop TechFair** (Dec 2025 – Jan 2026) as a Data Analyst
-- 📈 Passionate about dashboards, reporting, and finding insights hidden in data
+- 📈 Passionate about transform raw data into actionable  dashboards, reporting, and finding insights hidden in data
 - 🌱 Always learning new tools to sharpen my analytics toolkit
 - 💬 Ask me about Power BI, SQL, or Excel — happy to nerd out about data!
 
@@ -57,13 +57,29 @@ I'm a **Data Analyst** who loves turning raw numbers into clear, actionable stor
   <img src="https://img.shields.io/badge/Data_Transformation-6E4AFF?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-EE4C2C?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine_Learning_Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF4785?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-3776AB?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Generative_AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 **Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Reporting-4CAF50?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+### 📜 Certifications
+
+- 🎯 **SQL (Basic)** — HackerRank
+- 🤖 **Data Science & AI/ML Certificate** — YBI Foundation
+- ✨ **Generative AI Tools** — Workshop Participation
+- 🐍 **Python Programming Certificate** — CodeTantra
 
 ---
 
